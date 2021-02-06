@@ -14,7 +14,7 @@ The goal with this project is to prepare Pewlett-Hackard with projections regard
 - Many engineers are retiring. 29,414 Senior Engineers, 14,222 Engineers, and 1,761 Assistant Engineers are retiring this year. This brings the total retiring engineer count to 45,397. Refer to an image of the count of retiring job titles below: 
  
 
-<br/> 2017 Performance ![retiring_count](retiring_count.png) 
+<br/> ![retiring_count](retiring_count.png) 
 
 ### Deliverable 2: Mentorship Program
 
