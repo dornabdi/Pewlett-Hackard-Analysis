@@ -25,7 +25,7 @@ The goal with this project is to prepare Pewlett-Hackard with projections regard
 
 
 ## Summary 
- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 The queries that built unique_titles table shows that 90,398 employees at Pewlett Hackard will reach retirement age in the next 5 years. As mentioned above, most of the retiring roles are that in senior level positions. 29,414 Senior Engineers and 28,254 Senior Staff are retiring. Additionally, many engineers are retiring. 29,414 Senior Engineers, 14,222 Engineers, and 1,761 Assistant Engineers are retiring this year. This brings the total retiring engineer count to 45,397. 
 
 I built a table to calculate the total number of current active employees to find the percentage of total employees that are retiring in the next five years: 
