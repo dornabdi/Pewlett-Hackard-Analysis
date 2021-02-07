@@ -41,4 +41,4 @@ Based on the table we built in Deliverable #2, mentorship, there are 1,549 emplo
 
 <br/> ![mentorship](mentorship.png) 
 
-There are over 90,000 employees retiring in the next five years, meaning an average of 18,000 employees exiting the company each year. Having just over 1,500 employees eligible to mentor for one year is not nearly enought!
+There are over 90,000 employees retiring in the next five years, meaning an average of 18,000 employees exiting the company each year. Having just over 1,500 employees eligible to mentor for one year is not nearly enough!
