@@ -10,7 +10,7 @@ The goal with this project is to prepare Pewlett-Hackard with projections regard
 ### Deliverable 1: Eligible Retirees
 - The unique_titles table shows all active employees that are nearing the age of retirement only showing their current title, so every employee is only in this table once.
 
-- Most of the retiring roles are that in senior level positions. 29,414 Senior Engineers and 28,254 Senior Staff are retiring, this means that Pewlett-Hackard needs to consider a hiring strategy that will not feel unnatural to junior and entry level employees. 
+- Most of the retiring roles are in senior level positions. 29,414 Senior Engineers and 28,254 Senior Staff are retiring, this means that Pewlett-Hackard needs to consider a hiring strategy that will not feel unnatural to junior and entry level employees. 
 
 - Many engineers are retiring. 29,414 Senior Engineers, 14,222 Engineers, and 1,761 Assistant Engineers are retiring this year. This brings the total retiring engineer count to 45,397. Refer to an image of the count of retiring job titles below: 
  
@@ -19,11 +19,9 @@ The goal with this project is to prepare Pewlett-Hackard with projections regard
 
 ### Deliverable 2: Mentorship Program
 
-- The mentorship_eligibility table contains a list of employees who are eligible for the mentorship program based on their age. We were looking for employees born in the year 1965.
+- The mentorship_eligibility table contains a list of employees who are eligible for the mentorship program based on their age. We are looking for mentors born in the year 1965.
 
-- There are 1,549 eligible mentorship employees born in 1965. This is significantly lower than the total number of retiring employees. See the count of mentorship eligible employees below:
-
-<br/> ![mentorship](mentorship.png) 
+- There are 1,549 eligible mentorship employees born in 1965. This is significantly lower than the total number of retiring employees. 
 
 
 ## Summary 
